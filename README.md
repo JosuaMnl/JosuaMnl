@@ -34,7 +34,7 @@ Here are a few things about me:
 
 
 <a href="https://github.com/JosuaMnl/Re-Clothes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosuaMnl&repo=MDPTV&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosuaMnl&repo=Re-Clothes&theme=buefy" />
 </a>
 <a href="https://github.com/JosuaMnl/StoryApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosuaMnl&repo=StoryApp&theme=buefy" />
