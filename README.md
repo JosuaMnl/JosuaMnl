@@ -20,7 +20,7 @@ Here are a few things about me:
 -   ⚡ Fun fact: I often dream about solving coding errors. 😂
 -   📫 You can reach me on [Linkedin](https://www.linkedin.com/in/josua-manalu-5b66a0207/).
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/JosuaMnl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuaMnl&layout=compact&theme=dark"/><br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosuaMnl&show_icons=true&theme=dark&include_all_commits=true&count_private=trueue&count_private=true"/>
