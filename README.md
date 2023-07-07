@@ -22,7 +22,7 @@ Here are a few things about me:
 
 <p align="left">
 <a href="https://github.com/JosuaMnl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuaMnl&layout=compact&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosuaMnl&layout=compact&theme=dark"/><br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosuaMnl&show_icons=true&theme=dark&include_all_commits=true&count_private=trueue&count_private=true"/>
 </a>
 </p>
