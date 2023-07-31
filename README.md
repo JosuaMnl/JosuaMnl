@@ -42,3 +42,6 @@ Here are a few things about me:
 <a href="https://github.com/JosuaMnl/MDPTV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosuaMnl&repo=MDPTV&theme=buefy" />
 </a>
+<a href="https://github.com/JosuaMnl/GitHubUsers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JosuaMnl&repo=GitHubUsers&theme=buefy" />
+</a>
